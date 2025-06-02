@@ -27,9 +27,9 @@ region_map = {
     'Tainan': 'South', 'Kaohsiung': 'South', 'Chiayi Ct': 'South',
     'Chiayi Co': 'South', 'Pingtung': 'South',
 
-    'Hualien': 'East', 'Taitung': 'East',
+    'Hualien': 'Other', 'Taitung': 'Other',
 
-    'Penghu': 'Islands', 'Kinmen': 'Islands', 'Matsu': 'Islands'
+    'Penghu': 'Other', 'Kinmen': 'Other', 'Matsu': 'Other'
 }
 
 # Apply region mapping to create a new 'Region' column
